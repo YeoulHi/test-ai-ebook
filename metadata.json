@@ -1,0 +1,5 @@
+{
+  "name": "Ebook Cover Generator",
+  "description": "A simple web application to generate beautiful ebook covers using AI. Provide a title, author, and a prompt to create a unique cover image.",
+  "requestFramePermissions": []
+}
